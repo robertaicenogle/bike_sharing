@@ -11,6 +11,20 @@ This project involves the use of Tableau to analyze of New York City Bike data. 
 
 ## Results
 
+### Deliverable 1: Preprocessing the Data for PCA
+Results
+
+
+### Deliverable 2: Reducing Data Dimensions Using PCA
+Results
+
+
+### Deliverable 3: Clustering Cryptocurrencies Using K-means
+Results
+
+
+### Deliverable 4: Visualizing Cryptocurrencies Results
+Results
 
 
 ## Summary
