@@ -13,25 +13,31 @@ This project involves the use of Tableau to analyze of New York Citi Bike data. 
 
 ## Results
 
+### Checkout for Users
 How long bikes are checked out (in minutes). The visualization shows that not many bikes are used for over an hour (60 minutes). Main usage is within the first hour, peaking within 5 and 6 minutes.
 ![](tab1.PNG)
 
+### Checkout Times by Gender
 How long bikes are checked out (in minutes) by gender. The visualization shows that majority of bike users were males. 
 ![](tab2.PNG)
 
+### Trips by Weekday
 Number of bikesharing trips by day of the week in a twelve hour timeframe. The visualization shows that a high peak is on Thursdays between 5pm and 6pm. 
 ![](tab3.PNG)
 
+### Trips by Gender
 Number of bikesharing trips by day of the week by gender. The visualization shows that males have a strong bike usage at 8am and 5/6pm. 
 ![](tab4.PNG)
 
+### User Trips by Gender by Weekday
 Number of bikesharing trips by day of the week in a twelve hour timeframe by gender and usertype. The visualization shows that subscribers have higher number of trips compared to customers, majority males. 
 ![](tab5.PNG)
 
-A breakdown based on gender. The visualization shows that the majority of users in the data are male.
+### Gender Breakdown
+A breakdown based on gender.The visualization shows that the majority of users in the data are male.
 ![](tab6.PNG)
 
-Total number of rides.
+### Total number of rides.
 ![](tab7.PNG)
 
 
