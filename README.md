@@ -11,19 +11,26 @@ This project involves the use of Tableau to analyze of New York City Bike data. 
 
 ## Results
 
-![](Resources/DataFrame.PNG)
+How long bikes are checked out (in minutes).
+![](tab1.PNG)
 
-![](Resources/DataFrame.PNG)
+How long bikes are checked out (in minutes) by gender.
+![](tab2.PNG)
 
-![](Resources/DataFrame.PNG)
+Number of bikesharing trips by day of the week in a twelve hour timeframe.
+![](tab3.PNG)
 
-![](Resources/DataFrame.PNG)
+Number of bikesharing trips by day of the week by gender.
+![](tab4.PNG)
 
-![](Resources/DataFrame.PNG)
+Number of bikesharing trips by day of the week in a twelve hour timeframe by gender.
+![](tab5.PNG)
 
-![](Resources/DataFrame.PNG)
+A breakdown based on gender.
+![](tab6.PNG)
 
-![](Resources/DataFrame.PNG)
+Total number of rides.
+![](tab7.PNG)
 
 
 ## Summary
