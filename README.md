@@ -6,6 +6,8 @@ This project involves the use of Tableau to analyze of New York Citi Bike data. 
 
 [link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/Bike_Sharing_16198285438110/NYCBike?publish=yes)
 
+[link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/NYCBike_16198230280820/TopStartingLocations?publish=yes)
+
 ### Resources
 - Data Source:
 - Software: Tableau, Python
