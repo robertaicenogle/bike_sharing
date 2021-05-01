@@ -2,7 +2,7 @@
 Module 14: NY Citibike with Tableau
 
 ## Project Overview
-This project involves the use of Tableau to analyze of New York City Bike data. Data visualization tools to explore the viability of a bike-sharing business.
+This project involves the use of Tableau to analyze of New York Citi Bike data. Data visualization tools such as Tableau were used to explore and identify trends of the bike-sharing business.
 
 [link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/Bike_Sharing_16198285438110/NYCBike?publish=yes)
 
@@ -13,22 +13,22 @@ This project involves the use of Tableau to analyze of New York City Bike data. 
 
 ## Results
 
-How long bikes are checked out (in minutes).
+How long bikes are checked out (in minutes). The visualization shows that not many bikes are used for over an hour (60 minutes). Main usage is within the first hour, peaking within 5 and 6 minutes.
 ![](tab1.PNG)
 
-How long bikes are checked out (in minutes) by gender.
+How long bikes are checked out (in minutes) by gender. The visualization shows that majority of bike users were males. 
 ![](tab2.PNG)
 
-Number of bikesharing trips by day of the week in a twelve hour timeframe.
+Number of bikesharing trips by day of the week in a twelve hour timeframe. The visualization shows that a high peak is on Thursdays between 5pm and 6pm. 
 ![](tab3.PNG)
 
-Number of bikesharing trips by day of the week by gender.
+Number of bikesharing trips by day of the week by gender. The visualization shows that males have a strong bike usage at 8am and 5/6pm. 
 ![](tab4.PNG)
 
-Number of bikesharing trips by day of the week in a twelve hour timeframe by gender.
+Number of bikesharing trips by day of the week in a twelve hour timeframe by gender and usertype. The visualization shows that subscribers have higher number of trips compared to customers, majority males. 
 ![](tab5.PNG)
 
-A breakdown based on gender.
+A breakdown based on gender. The visualization shows that the majority of users in the data are male.
 ![](tab6.PNG)
 
 Total number of rides.
@@ -36,4 +36,4 @@ Total number of rides.
 
 
 ## Summary
-Based on the data, high activity of the bike sharing service occurs during August 2019 in New York City, primarily on Manhattan Island, by male users in the morning and during evening rush hour. Citi Bike services, consequently, are a viable alternative to public transportation by commuting workers. This analysis could be benefitted by additional analysis comparing data for other months to assess trends across the year. Another potential addition is the inclusion of weather data to assess the correlation between the weather and ridesharing.
+Based on the data, high usage of Citi bike sharing occurs in New York City by male users in the morning (8am) and evenings (5/6pm). Location plays a role in the number of rides from Citi Bike services since, New Yorkers needing additional fast transportation. This analysis could be benefitted by additional analysis comparing bike data for other months to observe the different variables included in this dataset, such as gender, time spent, etc. 
