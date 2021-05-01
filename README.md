@@ -4,6 +4,8 @@ Module 14: NY Citibike with Tableau
 ## Project Overview
 This project involves the use of Tableau to analyze of New York City Bike data. Data visualization tools to explore the viability of a bike-sharing business.
 
+[link to dashboard]("https://public.tableau.com/profile/robert1912#!/vizhome/Bike_Sharing_16198285438110/NYCBike?publish=yes")
+
 ### Resources
 - Data Source:
 - Software: Tableau, Python
