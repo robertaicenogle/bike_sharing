@@ -2,7 +2,7 @@
 **TABLEAU**
 
 ## Project Overview
-This project involves the use of Tableau to analyze of New York Citi Bike data. Data visualization tools such as Tableau were used to explore and identify trends of the bike-sharing business.
+This project involves the use of Tableau to analyze New York City Bike data. Data visualization tools such as Tableau were used to explore and identify trends of the bike-sharing business.
 
 [link to dashboard](https://public.tableau.com/profile/robert1912#!/vizhome/Bike_Sharing_16198285438110/NYCBike?publish=yes)
 
